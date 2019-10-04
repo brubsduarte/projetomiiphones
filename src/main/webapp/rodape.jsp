@@ -12,7 +12,7 @@
 		src="https://brubsduarte.github.io/projeto/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 	<script
 		src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-	<script type="text/javascript"
+	<script
 		src="https://brubsduarte.github.io/projeto/elevatezoom-master/jquery.elevateZoom-3.0.8.min.js"></script>
 	<script>
 		$("#image01").elevateZoom();
