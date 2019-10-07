@@ -123,6 +123,5 @@
             </div>
         </div>
     </div>
-</body>
 
 <jsp:include page="rodape.jsp"></jsp:include>
