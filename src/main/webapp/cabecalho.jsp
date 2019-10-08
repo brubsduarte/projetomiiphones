@@ -2,7 +2,7 @@
 	pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 
 <head>
 
@@ -39,7 +39,7 @@
 
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
 		<div class="container">
-			<a class="navbar-brand" href="index.html"> <img
+			<a class="navbar-brand" href="${pageContext.request.contextPath}/"> <img
 				src="https://brubsduarte.github.io/projeto/vendor/bootstrap/Icon/logo-mii03.png" width="93" height="35"
 				class="d-inline-block align-center" alt=""></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse"
